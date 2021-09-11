@@ -1,0 +1,26 @@
+{
+  "name": "placedog.js",
+  "version": "1.0.0",
+  "description": "placedog.js utilizes the place.dog API to download placeholder images of dogs",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattPlays/placedog.js.git"
+  },
+  "keywords": [
+    "dogs",
+    "API",
+    "placedog"
+  ],
+  "author": "MattPlays (https://github.com/MattPlays/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattPlays/placedog.js/issues"
+  },
+  "homepage": "https://github.com/MattPlays/placedog.js#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.0"
+  }
+}
