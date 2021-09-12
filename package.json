@@ -1,6 +1,6 @@
 {
   "name": "placedog.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "placedog.js utilizes the place.dog API to download placeholder images of dogs",
   "main": "index.js",
   "types": "index.d.ts",
